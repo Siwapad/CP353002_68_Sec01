@@ -1,8 +1,0 @@
-for i in 100 :
-  print("Hello World")
-
-
-print("Hello World")
-
-syso("Hello World");
-syso("PIM_Punkung");
